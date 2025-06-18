@@ -10,7 +10,7 @@ We identify the worst-performing NHS trusts and highlight localised breach trend
 
 - **Platform**: Databricks Community Edition  
 - **Language**: PySpark  
-- **Libraries**: matplotlib, pandas  
+- **Libraries**: matplotlib  
 - **Data Source**: [NHS A&E Waiting Times](https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/)  
 - **Visualisation**: Top 20 trusts by average breach rate (horizontal bar chart)
 
